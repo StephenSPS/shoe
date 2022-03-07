@@ -24,11 +24,19 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
 
-.cover-container {
-  max-width: 42em;
-}
+  .container {
+    max-width: 960px;
+  }
+
+  .pricing-header {
+    max-width: 700px;
+  }
+  }
+
+  .cover-container {
+    max-width: 42em;
+  }
 
 
 
